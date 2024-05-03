@@ -14,7 +14,7 @@ This repository contains an automated scraper built with Python and FastAPI that
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone [https://github.com/manas-codes/ScraperGPT/tree/master]
     ```
 
 2. **Install the required dependencies:**
